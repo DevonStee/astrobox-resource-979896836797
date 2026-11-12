@@ -3,7 +3,7 @@
     "id": "979896836797",
     "restype": "watchface",
     "name": "BOARDING PASS",
-    "description": "BOARDING PASS_五合一_飞行主题合集\n应用户要求, 试着把飞行主题的几款表盘合进一个表盘里: 行李转盘、地平仪、雷达、舷窗和 Vzor, 使用一款表盘的占位, 长按就能换, 换着戴方便一些, 然后也可以多装几款😂. \n在11月2日之前, 已经买过三款及以上飞行系列表盘的朋友, 会自动得到这款的兑换码.\n我要是忘了, 在爱发电后台提醒我一下就好.\n目前支持小米手环 10 / 11（含 NFC）/ 9 Pro / 10 Pro\n欢迎在小红书关注我, 加入群聊,",
+    "description": "BOARDING PASS_五合一_飞行主题合集\n应用户要求, 试着把飞行主题的几款表盘合进一个表盘里: 行李转盘、地平仪、雷达、舷窗和 Vzor, 使用一款表盘的占位, 长按就能换, 换着戴方便一些, 然后也可以多装几款😂. \n\n11.12日update: 现在轻触碰一下表盘可以切换控制for 地平仪和舷窗\n\n在11月2日之前, 已经买过三款及以上飞行系列表盘的朋友, 会自动得到这款的兑换码.\n我要是忘了, 在爱发电后台提醒我一下就好.\n目前支持小米手环 10 / 11（含 NFC）/ 9 Pro / 10 Pro\n欢迎在小红书关注我, 加入群聊,",
     "preview": [
       "media/00-预览-Pro五款.png",
       "media/03-预览-五款.png",
@@ -29,9 +29,9 @@
   ],
   "downloads": {
     "xmb9p": {
-      "version": "0.0.0",
+      "version": "1.0.0",
       "file_name": "downloads/Five Face Styles Pro.face",
-      "versionCode": 0,
+      "versionCode": 65536,
       "updatelogs": [
         {
           "version": "0.0.0",
@@ -40,9 +40,9 @@
       ]
     },
     "xmb10p": {
-      "version": "0.0.0",
+      "version": "1.0.0",
       "file_name": "downloads/Five Face Styles Pro.face",
-      "versionCode": 0,
+      "versionCode": 65536,
       "updatelogs": [
         {
           "version": "0.0.0",
@@ -51,24 +51,24 @@
       ]
     },
     "xmb10": {
-      "version": "0.0.0",
-      "file_name": "downloads/Five Face Styles.face",
-      "versionCode": 0
+      "version": "1.0.0",
+      "file_name": "downloads/Five Face Styles.bin",
+      "versionCode": 65536
     },
     "xmb10nfc": {
-      "version": "0.0.0",
-      "file_name": "downloads/Five Face Styles.face",
-      "versionCode": 0
+      "version": "1.0.0",
+      "file_name": "downloads/Five Face Styles.bin",
+      "versionCode": 65536
     },
     "xmb11": {
-      "version": "0.0.0",
-      "file_name": "downloads/Five Face Styles.face",
-      "versionCode": 0
+      "version": "1.0.0",
+      "file_name": "downloads/Five Face Styles.bin",
+      "versionCode": 65536
     },
     "xmb11nfc": {
-      "version": "0.0.0",
-      "file_name": "downloads/Five Face Styles.face",
-      "versionCode": 0
+      "version": "1.0.0",
+      "file_name": "downloads/Five Face Styles.bin",
+      "versionCode": 65536
     }
   },
   "ext": {
